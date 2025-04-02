@@ -3,7 +3,7 @@ import pandas as pd
 
 def update_google_sheet():
     # Authenticate with your credentials JSON file
-    gc = gspread.service_account(filename= r"C:\Users\User\Documents\Survey_data\northern-card-454808-g9-b52f90fc8682.json")
+    gc = gspread.service_account(filename= "northern-card-454808-g9-b52f90fc8682.json")
     
     # Open your Google Sheet by name
     spreadsheet = gc.open("Data for website")

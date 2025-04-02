@@ -4,7 +4,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 # Path to your downloaded JSON key file
 def load_data():
-    creds_path = r"C:\Users\User\Documents\Survey_data\modify-and-sheft-survey-data-9dcf4242cbbd.json"
+    creds_path = "modify-and-sheft-survey-data-9dcf4242cbbd.json"
     
     # Define API scope
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
