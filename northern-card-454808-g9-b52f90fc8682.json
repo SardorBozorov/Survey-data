@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "northern-card-454808-g9",
+  "private_key_id": "b52f90fc86822867abcd05eef9ef09ad9654f383",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/g9LB0qM1ad/N\nfGB+ShsTkr4Yo9JErHVodVO+qKFoAm2mAJ81dTzJQrhxCudxTrUFav3AP967JOGs\nByUwj8e99U+ejimLRNtTw2NdnYpQTF6uMH/dvj1aTLXRoAXd+17uuOC54iaulRjq\nLALk9TDHv9K7xl2gl7lKoEVyME/vAqk8hYBeTlevnjA1vuJwVdDZeSmbdebySYDh\nFOd3+JnygWBfFPLPzKhpeNHH+J+Mphv2aqYq9ClvtSiYDzuBIF4pR04nBNgYk2Rr\ncRZ2HzlDzVO5SwFVA5ou+zKvBay21H4/fBpknf11YOC4W1XHn7ZWR2ObFbsrKL+j\nQ0UpvvIPAgMBAAECggEABFh4CriQfRC2cdQgBK2Uyvz6EESjWW0jgboQYgqhFT68\n3FbIjy7mVY56On3Zom17jsKzPODfRwP2JzlZbMCXl3g1cIEWlYV7rEZlo3LN5baw\nMd6mSUBvLvS2gE6KmmWltnJHoNcAfGk2ZAOZNqShWhXS1YPIjV8Yi09y+IaNHTOV\noa2LyhnCLoaLQ6J9e/RpJPLcxJKY09w7ZlMZgEWiafH/E/K8rO3wtPlHAmDYi/4l\noYiB93oqXYSXoyctovEqiMdMbBEzE+EChnawE/Pbqy9ozHv5VyU+9IouUIX1OeAa\nRr8stLHr1CrWkwMkonRzrmc+rwn8hxNxvhpSLB8LZQKBgQD6b6LjNZuaPhFW/jsJ\nB2LqcowZ0IYNf/6Zbv+XUBQrCQQdAXwpUqDBqnOjEdrn/hAjh+deYHuHUNsmvdx7\npxPUR8usDgCEZFWTF6Zm+P6TzPv/z+KxXmycb8VbWKuVgdgLTB8e+2kGbk5bdwaz\npuDPdi0WYeOLeZRALP9bUFvrdQKBgQDDxRIrgIxTkkG9tBiKy76Pv56GGIneEKLa\nUMjYyqZHj90SuviauLDmpnqtlYS8wvXAN9ft5OLHYlRd/yTakERuGa6UbC53ctvB\n8vHtu+AFFhSOJ18exOWyH6o3IOOiAFAf+bd0jbScQ7bezJZk4xBnaR9jw13dOQ4U\nY3pHJwBq8wKBgQDySvu+82ieLBq+na0kKR9MUJK3jwWDHiiG7dse2/0HPeva3Erx\n991MQcsrI+U0upuGpL/2kUYyPsooi1w7zgPjR6sHxWw+qowYibMWwSQcfx/3+XsL\nu509JO4+WGV5emw5UeZyJS8RZ7srxtaXDYdHcMBifUaW9IO4K1DLWc302QKBgFSr\n0o0AHzEyC775urelIXlYvj5vNInYFidoU0X4d+xxm4MzXLzGbrSDgoG7LlrZ06Jc\nRMb+fNsRez3gUVc6mG4qK2jEVWCSS9vZsKtK27w3bZKCEtDjBhmBOoR3dByoF/+M\naL0/YMNJQjmgsNdXocuoGsxyPhGlUKKe188YXkTjAoGBAK4bQtS/CYHGONMyREf0\ntmmMWnhHQgshUrcJ163iaxIEhYp0vNqHPBd0zw7ZREh6UvhvQjZNMh6v0Vya+CEk\nJsRZUte/wkovRK8aJhdUKPmmRJhOzxwsJhE588ody7Neq8kQbV+wmjNZPccVYJCb\ndqvofo/BZR37Ot62PGqF3ZTc\n-----END PRIVATE KEY-----\n",
+  "client_email": "itedu-966@northern-card-454808-g9.iam.gserviceaccount.com",
+  "client_id": "114497559631695829485",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/itedu-966%40northern-card-454808-g9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "modify-and-sheft-survey-data",
+  "private_key_id": "9dcf4242cbbd602f82a80cde519da566832efa32",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRy0efG4zzPouT\nvxQqRbw/2DKYGaKhJwf4RA7hDboTswHf4r+IysybAvUBms2KP8gP97d7QZGHuHHB\n0iRXjR4lijD/BOn+Ohlq7sGxMdedXfytk8emI5GKd2W7O6zlkSCVN7UYYoqwZMlj\nDVFMK8yd/1hvUyX+mY22nq6C/ktiLJxHjmWcAyzJvukzNHIWk7KjZWqv/drXxGLz\nLIiCm42ZG10htL0OlxbRBwWM10EnK0QDlnkykaEjBfldmyoD9/fIR6B6QFO7wuXU\nrPeFHf2rLh5s+AZfPDU2XVblQvMPJwl8a9J44s8CGCjcgHPVueeO+ySRiYZJZ9a5\nPTbyR0cjAgMBAAECggEAAo0AWcNkfdVOA3sIcZEiflDlyz/4ixFl6+ir7k7pQHG7\nPUUiWLVFMpdLx6a3BrjKzm2Pygxcisln0gL46nrumbyUkZfg3nScuCufUu+3tD6f\nIrR6x3Qu7Ko8pD+lVQSO4Fw/3pmIH9KXOOtBs0rkXywVH6649gpY6kEDVIK8rjy1\n+wc8qnln7DXvcQuPg3rutU79Z4m0XuqPG0CKz+UXnm+I+zYdTGkPtXC3GD40XffV\n+sieyMRNC+e3sa2qhg1NomRXQbuoBpR1Rav5geMTIWGha7L8wMfNVdImP3DIS1d2\nMIdbHff/6PpTH340+Nj/1VUQ+rq7xWlZHcN5YUbd8QKBgQDu8WMGOo1vqUAb8EKo\n8QERcDwbk4eGOaZDMCv0U5yKqO7IUV1z7pb7X7/433nCJlIfSYa4ACoFOtdd7q03\nEyAxexjKl6R6R/SRSLuxUx8YQUQCp7reP01Fxp2QdDhw8rJ9woZgs3R0dnasrFx1\n+ZO3qg4y2uf06l4ZWQ5GhqeVcwKBgQDgxTS78jkom7+mVyFeXUb2lKhAAKMfrRRR\nZ8RR3HXFPrqp4pGzTBz7vj8dE1OODDAr3QxOUzNa8aDXRt52ieCacFEOgypbfdL7\nkPMypGVE5imtQRCtC5GD4MnEHDcyV6XMJOsuMylRt7rwtSXuNQskYe6319B5LP0K\nZDlH4uWbkQKBgCy9N8xfxEHHEADrMKAPWCLav/Zt3i9MtgvYhjJeQW5ZCTSqv3PI\nla6FlB1WQqcOo8vF6ZqkNTn7dX3aBcbNJvb81HyCfkKDHJDjbHlcVfMlrUVOAJhC\nhAZvlOsKR9MmLjOL67tJfqGb2MamEz3nuDfoeHYfNNVP2MSoPxsHdXNvAoGBAIdL\nLOrUakNfPITLfXJngwd5g6zCtW2jqM83PpxnrxwDHiiUEE90SR3e7e56a5jdDUHZ\n1EZxHkBnoQDzz4Raia9sW934Zc6cdhqmrTyWZ76JLBz1RSxkAjr3W3uH4FGVIF84\n+bbdZMmjZgrtft9bXlGQATj31qyZv9Y5baEvmjWBAoGBAI/+VCKCR/WdNnVQxWVN\nC4n/BMMGutORwboSjMOA5RdVa6ROV9vKT7watkkxGhqi7kizBZbGxYBCmixTs8Xd\nFrRdHla2SspXnoVMmPXpyPwmAYkO6l0FQDWwsI3zn2mFqUud1XGOgwJ465gv0GQD\nrd6Z3q5XSNZ0YJMkIcCew7AJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "it-education@modify-and-sheft-survey-data.iam.gserviceaccount.com",
+  "client_id": "103236364972641289856",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/it-education%40modify-and-sheft-survey-data.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
